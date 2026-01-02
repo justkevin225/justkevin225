@@ -2,6 +2,12 @@
   <img src="me.png" alt="Kevin Kouakou" width="160"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=justkevin225&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/justkevin225?label=Followers&style=flat&color=0e75b6" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/justkevin225?label=GitHub%20Stars&style=flat&color=0e75b6" alt="GitHub stars"/>
+</p>
+
 <h1 align="center">Kevin Kouakou</h1>
 <h3 align="center">Fullstack Developer • SaaS & Product-Oriented Engineer</h3>
 
