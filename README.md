@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Kevin Kouakou</h1>
-<h3 align="center">Fullstack Developer • SaaS & Product-Oriented Engineer</h3>
+<h3 align="center">Fullstack Developer • Frontend-first • SaaS & Product-Oriented</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-kouakou-234508252">
@@ -31,24 +31,24 @@
 
 ## 👨‍💻 About Me
 
-Fullstack Developer with **4+ years of experience**, focused on **SaaS, dashboards, CRMs, and high-conversion landing pages**.  
-I don’t just ship features, I build **maintainable products aligned with business goals**.
+**Fullstack Developer** with **4+ years of experience**, forte base **Frontend** et à l’aise sur tout le stack.  
+Spécialisé en **SaaS, dashboards, CRMs et landing pages à forte conversion**.  
+Je ne livre pas que des features : je construis des **produits maintenables alignés sur les objectifs business**.
 
-- 🎯 **Core focus:** SaaS & internal tools
+- 🎯 **Focus:** SaaS, internal tools, frontend & backend
 - 🧠 **Mindset:** Product, performance, scalability
-- 🏢 **Current role:** Frontend Developer at **WARIBEI**
-- 🌍 **Location:** Abidjan, Côte d'Ivoire 🇨🇮
-- 💼 **Freelance-ready:** Upwork & direct contracts
+- 🏢 **Rôle actuel:** Fullstack / Frontend at **WARIBEI**
+- 🌍 **Localisation:** Abidjan, Côte d'Ivoire 🇨🇮
+- 💼 **Dispo freelance:** Upwork & contrats directs
 
 ---
 
 ## 🧠 Core Expertise
 
-- Pixel-perfect **Figma → Production Code**
-- Scalable Frontend Architecture (Next.js, React)
-- Fullstack APIs (REST, Auth, DB modeling)
-- Performance, SEO, Accessibility
-- Clean code, predictable UX, long-term maintainability
+- **Frontend:** Pixel-perfect Figma → code, architecture scalable (Next.js, React)
+- **Fullstack:** APIs REST, auth, modélisation DB, intégration front/back
+- Performance, SEO, accessibilité
+- Code propre, UX prévisible, maintenabilité long terme
 
 ---
 
