@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/kevin-kouakou-234508252">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~01039c8685936920ca">
-    <img src="https://img.shields.io/badge/Upwork-Freelancer-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
   <a href="https://kevinkouakou.com">
     <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
